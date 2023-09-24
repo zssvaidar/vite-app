@@ -1,6 +1,9 @@
 @charset "utf-8";
+@import "./reset.scss";
 
 $primary: red;
 $primary: blue;
 
 @import "../node_modules/bulma/bulma.sass";
+
+@import "./style.scss"
